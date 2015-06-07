@@ -1,9 +1,9 @@
 fileserver_backend:
-  - git
+#  - git
   - roots
 
-gitfs_remotes:
-  - https://github.com/ybur-yug/python_ocr_tutorial.git
+#gitfs_remotes:
+#  - https://github.com/ybur-yug/python_ocr_tutorial.git
 
 file_roots:
   base:
